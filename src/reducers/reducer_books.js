@@ -4,5 +4,5 @@ export default function(){
         { title: 'harry poter' },
         { title: 'learn cooking' },
         { title: 'learn node' }
-    ]
+    ];
 }
